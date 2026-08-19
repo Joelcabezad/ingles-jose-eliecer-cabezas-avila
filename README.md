@@ -13,8 +13,8 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
+| Home | My name is Jose Eliecer Cabezas Avila, I am a software developer,and my email addresses are jcabezas54@itfip.edu.co, https://github.com/Joelcabezad/ingles-jose-eliecer-cabezas-avila|
+| About | I like reading; I also enjoy traveling, spending time with my family, and studying for my degree. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
