@@ -30,7 +30,7 @@ const ES = {
   "about.text":           "Soy estudiante de Programación Web en UniEspinal. Me gusta crear páginas web y estoy aprendiendo inglés para crecer profesionalmente.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "saldaña, Colombia",
+  "about.valueLocation":  "ciudad, Colombia",
   "about.labelEmail":     "",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés (Básico)",
